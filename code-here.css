@@ -4,7 +4,7 @@
     text-align:justify;
 }
 #modern{
-    background-color:rgb(255, 200, 0);
+    background-color:#fed700;
     text-align: center;
     padding: 1em 1em 0em 1em;
     font-weight: 600;
@@ -12,7 +12,7 @@
     box-shadow: 2px 2px 10px grey;   
 }
 #impact{
-    background-color:rgb(144, 246, 170);
+    background-color:#90ee90;
     border:black double 1em;
     text-align: center;
     padding: 1em 1em 0em 1em;
@@ -21,4 +21,38 @@
 }
 #elise{
     font-family:cursive;
+    background-color: #fffaf0;
+    box-shadow: 2px 2px 10px grey;
+    border-style: groove;
+    border-color: #a69c8f;
+    border-width: 0.5em;
+    padding: 1em 1em 1em 1em;
+    text-align: center;
+}
+.doubles{
+    display: inline-block;
+    margin: 1em 1em 1em 2em;
+    margin-inline:25px
+}
+#one,#two{
+    display: inline-block;
+    margin-left: 1em;
+    border-style:ridge;
+    background-color: #7efed4;
+    border-width: .5em;
+    border-color: turquoise;
+    padding: 1em;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: 600;
+    box-shadow: 2px 2px 10px grey;
+}
+#gaudi{
+    font-family: cursive;
+    font-weight: 550;
+    padding: 1em;
+    text-align: center;
+    box-shadow: 2px 2px 5px grey;
+    background-color: #fba07a;
+    border-radius: 1em 3em;
 }
